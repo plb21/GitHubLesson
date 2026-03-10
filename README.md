@@ -19,7 +19,7 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 ## Variables Measured
 
-The dataset includes the following morphological measurements:
+The penguin dataset includes the following morphological measurements:
 
 | Variable | Range |
 |----------|-------------|
